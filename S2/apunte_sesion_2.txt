@@ -1,0 +1,129 @@
+Los ciclos deben llevar 3 cosas:
+
+1. Variable de control (int i)
+2. Condición (i<max)
+3. Incremento o decremento (i++)
+
+Ejercicio:
+Crear un programa que nos solicite un número entero 'max', entonces el programa hace la suma 'suma' de todos los números enteros sucesivos desde 1 hasta max.
+
+Ejemplo:
+Sumar del 1 al: 10
+
+suma = 1+2+3+4+5+6+7+8+9+10 = 55
+
+La suma del 1 al 10 es 55.
+
+
+
+Los objetos se pueden ser:
+
+1. seres vivos
+2. objetos físicos inanimados
+3. cosas intangibles
+4. organizaciones
+5. roles
+
+País es a clase
+como México es a objeto
+
+Planeta es a clase
+como Júpiter es a objeto
+
+Persona es a clase 
+como Luis Perez es a objeto
+
+Casa es a clase
+como "Mérida, Av Wilfrido #23" es a objeto
+
+Automovil es a clase
+como "Subaru WRX" es a objeto
+
+Computadora es a clase
+como Dell es a objeto
+
+Diagramas UML sirven para diseñar y modelar clases
+
+Clase Planeta:
+
+Atributos:
+
+nombre: String
+diametro: double
+posicion: int
+color: String
+
+Métodos: 
+
+Planeta(nombre: String, posicion: int, color: String)
+verDatosPlaneta(): void
+
+POJO: plain old java object
+
+
+Ejercicio en clase:
+Diseñar y crear una java class llamada Automovil
+Diseñar es escribir sus atributos (máximo 3) y métodos (nota)
+Crear es escribir el código java
+(Termina 8:37 PM)
+
+Clase Automovil
+
+marca: String
+modelo: String
+double: precio
+
+Automovil(marca: String,modelo:String,double:precio)
+verDatosDelAuto(): void
+
+
+Tarea: (parte 1)
+Diseñar y crear las siguientes java class:
+
+Producto
+SuperHeroe
+Cliente
+CitaMedica
+Planta
+Estudiante
+Materia (matemáticas, español,etc)
+Videojuego
+
+(parte 2)
+Crear algunos objetos de cada clase 
+en una clase tipo Test y usar al menos un método
+
+(parte 3)
+Encapsular todas las clases 
+
+Ejercicio 2 en clase:
+Hacer una clase Test de la clase Automovil, crear 4 automoviles y usar el método verDatosDelAuto()
+(Termina 9:07 PM)
+
+Ejercicio post-clase:
+Encapsular la clase Automovil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

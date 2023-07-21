@@ -1,0 +1,144 @@
+Java standard edition
+   - lógica para programación 
+   - programación orientada a objetos
+   - bases de datos y persistencia de datos con java (backend)
+
+Java enterprise edition ( Jakarta enterprise edition )
+   - servlets (clase java)
+   - JSP ( Java server pages ) index.jsp
+   - Facelets index.xhtml (Expression Language)
+   - EJB ( Enterprise JavaBeans (persistencia de datos))
+   - JPA ( Java persistence application )
+     (@Id, @Entity, @Basic, @Column, @Table)
+   
+Java micro edition
+
+Java card
+
+
+
+Atributos:
+
+nombre
+apellido_paterno
+apellido_materno
+fecha_nacimiento
+direccion
+telefono
+email
+
+Métodos:
+
+verNombre()
+verTelefono()
+verDatosCompletos()
+
+
+Atributos:
+
+numero
+color
+modelo
+memoria
+compañia
+marca
+procesador
+dimensiones
+red
+
+Atributos:
+
+nombre
+duración
+clasificación
+alenco
+animada
+audio
+productora
+director
+
+
+
+
+
+Un objeto puede darse 
+de las siguientes formas:
+
+Ser vivo
+Objeto físico inanimado
+Algo intangible
+Roles
+Organizaciones
+
+
+
+País es a clase
+Como México es a objeto
+
+Télefono es a clase
+Como Iphone 14 es a objeto
+
+Planeta es a clase
+Como Mercurio es a objeto
+
+Persona es a clase
+Como Juan Lopez es a objeto
+
+Videojuego es a clase
+Como Need for speed es a objeto
+
+Robot es a clase
+Como Ameka es a objeto
+
+Continente es clase 
+Como Asia es a objeto
+
+Biblioteca es clase
+Como Vasconcelos es a objeto
+
+Mamifero es a clase
+Como perro es a objeto
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
